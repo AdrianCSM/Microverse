@@ -1,1 +1,1 @@
-This a small project I did from The Odin Project. The CSS was made before the HTML, I finished it but the HTML part is not finished yet, but I like how it looks right now so I will make no changes to it.
+This a small project I did from The Odin Project. The HTML part was done at some point but I didnt like how it turned out so I had to remove some things and forgot to change the CSS part, might update it later.
