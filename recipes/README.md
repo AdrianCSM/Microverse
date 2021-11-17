@@ -1,1 +1,0 @@
-This a small project I did from The Odin Project. The HTML part was done at some point but I didnt like how it turned out so I had to remove some things and forgot to change the CSS part, might update it later.
